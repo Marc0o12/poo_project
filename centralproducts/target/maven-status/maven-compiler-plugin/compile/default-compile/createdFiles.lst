@@ -1,0 +1,10 @@
+com\tecinfo\MainTestDAO.class
+com\tecinfo\model\Dao\DBConnection.class
+com\tecinfo\Main.class
+com\tecinfo\Controller\PrimaryController.class
+com\tecinfo\model\Product.class
+TestConnection.class
+com\tecinfo\Controller\SecondaryController.class
+com\tecinfo\model\Dao\Dao.class
+com\tecinfo\Servlet\ProdutoServlet.class
+com\tecinfo\model\Dao\ProductDao.class
