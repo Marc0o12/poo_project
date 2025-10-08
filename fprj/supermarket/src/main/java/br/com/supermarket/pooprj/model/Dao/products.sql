@@ -17,3 +17,10 @@ CREATE TABLE tbvendas
 	CONSTRAINT pk_tbprodutos PRIMARY KEY (id)
 );
 SELECT * FROM tbvendas;
+
+CREATE TABLE tbusers (
+  id SERIAL PRIMARY KEY,
+  username VARCHAR(100) UNIQUE NOT NULL,
+  password VARCHAR(100) NOT NULL
+);
+SELECT * FROM tbusers;
