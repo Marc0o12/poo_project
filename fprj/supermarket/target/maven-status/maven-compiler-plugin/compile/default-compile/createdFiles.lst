@@ -1,8 +1,0 @@
-br\com\supermarket\pooprj\model\Dao\Dao.class
-br\com\supermarket\pooprj\model\Product.class
-br\com\supermarket\pooprj\model\Dao\ProductDao.class
-br\com\supermarket\pooprj\model\Dao\VendaDao.class
-br\com\supermarket\pooprj\supermarket\SupermarketApplication.class
-br\com\supermarket\pooprj\controller\PrimaryController.class
-br\com\supermarket\pooprj\model\Venda.class
-br\com\supermarket\pooprj\model\Dao\DBConnection.class
