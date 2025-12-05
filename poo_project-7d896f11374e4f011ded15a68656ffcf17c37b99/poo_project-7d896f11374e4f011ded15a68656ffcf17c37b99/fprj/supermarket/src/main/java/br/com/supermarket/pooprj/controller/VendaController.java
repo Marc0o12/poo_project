@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 @Controller
 public class VendaController {
 
-    @GetMapping("/venda")
+    @GetMapping("/vendas")
     public String home() {
         return "venda/vendas"; // nome do template sem extensão
     }

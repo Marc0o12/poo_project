@@ -9,12 +9,12 @@ public class LoginController {
     
     @GetMapping("/login")
     public String home() {
-        return "user/login"; // nome do template sem extensão
+        return "user/login"; 
     }
 
     @PostMapping("/loginautenticator")
     public String loginAuthenticator() {
-        return "redirect:/";
+        return "redirect:mercadinho";
     }
 }
 
