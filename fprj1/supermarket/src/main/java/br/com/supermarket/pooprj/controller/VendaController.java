@@ -1,4 +1,4 @@
-/*package br.com.supermarket.pooprj.controller;
+package br.com.supermarket.pooprj.controller;
 
 import org.springframework.ui.ModelMap;
 import org.springframework.validation.BindingResult;
@@ -94,4 +94,4 @@ public class VendaController {
         redirectAttributes.addFlashAttribute("success", "Produto deletado com sucesso!");
         return "redirect:/products/listproducts";
     }
-}*/
+}

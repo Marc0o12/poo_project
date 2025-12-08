@@ -1,4 +1,4 @@
-/*package br.com.supermarket.pooprj.service;
+package br.com.supermarket.pooprj.service;
 
 import java.util.List;
 
@@ -16,4 +16,4 @@ public interface VendaService {
 	
 	List<Venda> findAll();
 	
-}*/
+}
